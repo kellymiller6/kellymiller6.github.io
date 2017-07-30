@@ -1,9 +1,9 @@
 body {
   background: url('./images/peonies.jpg') no-repeat center center fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 nav {
@@ -37,7 +37,7 @@ header h1 {
   text-align: center;
   color: #712742;
   font-size: 3em;
-  margin: 0;
+  margin: 0 0 20px 0;
 }
 
 .about-me {
