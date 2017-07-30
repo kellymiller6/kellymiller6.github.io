@@ -55,8 +55,14 @@ header h1 {
 
 .about-me h3 {
   font-size: 1em;
-  margin: 0;
+  margin: 15px 0;
   font-family: 'Open Sans', sans-serif;
+}
+
+nav a {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.3em;
+  color: #712742;
 }
 
 @media screen and (max-width: 640px) {
