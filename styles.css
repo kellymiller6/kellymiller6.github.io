@@ -92,7 +92,10 @@ nav a {
   iframe {
     width: 400px;
     height: 600px;
-    top: 350px;
-    left: 50px;
+  }
+
+  .clicked {
+    top: 200px;
+    left: 30px;
   }
 }
