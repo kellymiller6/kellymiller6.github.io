@@ -81,7 +81,7 @@ nav a {
   body {
     padding: 10px;
   }
-  
+
   .about-me {
     padding: 20px;
     margin-top: 5%;
@@ -92,7 +92,7 @@ nav a {
   iframe {
     width: 400px;
     height: 600px;
-    top: 240px;
+    top: 350px;
     left: 50px;
   }
 }
