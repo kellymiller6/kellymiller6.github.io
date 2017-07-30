@@ -78,6 +78,10 @@ nav a {
 }
 
 @media screen and (max-width: 420px) {
+  body {
+    padding: 10px;
+  }
+  
   .about-me {
     padding: 20px;
     margin-top: 5%;
