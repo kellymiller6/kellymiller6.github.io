@@ -4,6 +4,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  display: flex;
 }
 
 nav {
@@ -65,10 +66,20 @@ nav a {
   color: #712742;
 }
 
+div {
+  width: 55%;
+  height: 650px;
+}
+
 @media screen and (max-width: 640px) {
   .about-me {
     width: 70%;
     opacity: .8;
+  }
+
+  div {
+    width: 30%;
+    height: 400px;
   }
 
   iframe {
@@ -87,6 +98,11 @@ nav a {
     margin-top: 5%;
     width: 100%;
     opacity: .7;
+  }
+
+  div {
+    width: 0%;
+    height: 0px;
   }
 
   iframe {
